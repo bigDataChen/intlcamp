@@ -1,0 +1,19 @@
+.ff0{font-family:sans-serif;visibility:hidden;}
+.sc_{text-shadow:none;}
+@media screen and (-webkit-min-device-pixel-ratio:0){
+.sc_{-webkit-text-stroke:0px transparent;}
+}
+.y0{bottom:0.000000px;}
+.h0{height:824.848000px;}
+.h1{height:825.000000px;}
+.w0{width:1206.450000px;}
+.w1{width:1206.500000px;}
+.x0{left:0.000000px;}
+@media print{
+.y0{bottom:0.000000pt;}
+.h0{height:1099.797333pt;}
+.h1{height:1100.000000pt;}
+.w0{width:1608.600000pt;}
+.w1{width:1608.666667pt;}
+.x0{left:0.000000pt;}
+}
